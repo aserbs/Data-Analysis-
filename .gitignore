@@ -1,4 +1,5 @@
 venv/
 env/
+myenv/
 
 /lab3/Rice_Image_Dataset
